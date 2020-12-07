@@ -2,22 +2,22 @@
 h1{
   color: red;
   font-style: italic;
-  text-align: center;
+  text-align: left;
   font-family: sans-serif;
 }
 h2{
   color: f7325e;
-  text-align: center;
+  text-align: left;
   text-decoration-color: #7dc410;
   font-family: fantasy;
 }
 ul{
-  text-align: center;
+  text-align: left;
   font-style: normal;
 }
 h3{
   color: red;
-  text-align: center;
+  text-align: left;
   font-family: sans-serif;
   font-style: italic;
 }
@@ -25,7 +25,7 @@ ul{
   line-height: normal;
 }
 body{
-  background-color: white;
+  background-color: whitesmoke;
 }
 .intro{
   font-style: italic;
@@ -33,4 +33,7 @@ body{
 p{
   text-align: left;
   text-decoration-color: orange;
+}
+nav{
+  visibility: visible;
 }
